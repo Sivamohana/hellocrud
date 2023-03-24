@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.mjs",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npm i"
+    "build": "npm install --save --legacy-peer-deps"
   },
   "author": "",
   "license": "ISC",
